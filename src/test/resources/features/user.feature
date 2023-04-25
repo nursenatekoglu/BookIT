@@ -30,6 +30,6 @@ Feature: User Verification
     Then UI,API and Database user information must be match
 
     Examples:
-      | email              | password         |
-      | blyst6@si.edu | barbabaslyst |
+       | email              | password         |
+       | blyst6@si.edu      | barbabaslyst     |
       #| nshearsby7w@uiuc.edu | lorettebradnum |
